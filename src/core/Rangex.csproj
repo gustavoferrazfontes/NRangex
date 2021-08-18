@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Rangex</AssemblyName>
+    <RootNamespace>Rangex</RootNamespace>
+  </PropertyGroup>
+
+</Project>
